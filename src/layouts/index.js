@@ -29,7 +29,7 @@ injectGlobal`
   }
 
   .gatsby-resp-image-wrapper {
-    margin: 2.75rem 0;
+    margin: 12rem 0;
   }
 `;
 

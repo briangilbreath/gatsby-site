@@ -57,6 +57,7 @@ const Details = styled.div`
   text-align: center;
 
   h1 {
+    text-transform: uppercase;
     color: ${props => props.theme.colors.color};
   }
 

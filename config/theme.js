@@ -13,7 +13,7 @@ module.exports = {
     linkHover: '#333333',
   },
   maxWidths: {
-    general: '1600px',
+    general: '1440px',
     project: 800,
   },
   gridColumns: 2,

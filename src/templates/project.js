@@ -18,6 +18,10 @@ const InnerWrapper = styled.div`
   position: relative;
   max-width: ${props => props.theme.maxWidths.project}px;
   margin: 0 auto;
+  
+  img{
+    border:10px solid #000;
+  }
 `;
 
 const Project = props => {
@@ -59,15 +63,15 @@ export const pageQuery = graphql`
       frontmatter {
         cover {
           childImageSharp {
-            sizes(maxWidth: 1600, quality: 90) {
+            sizes(maxWidth: 800, quality: 75) {
               ...GatsbyImageSharpSizes
             }
-            resize(width: 800) {
+            resize(width: 480) {
               src
             }
           }
         }
-        date(formatString: "DD.MM.YYYY")
+        date
         title
         areas
       }
