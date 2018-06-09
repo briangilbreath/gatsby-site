@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: https://briangilbreath.com/sitemap.xml
+sitemap: https://www.briangilbreath.com/sitemap.xml
