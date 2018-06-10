@@ -40,6 +40,13 @@ const CardItem = styled(Link)`
     }
     box-shadow: 0 35px 48px rgba(0, 0, 0, 0.3), 0 30px 20px rgba(0, 0, 0, 0.2);
   }
+
+  @media (max-width: 768px) {
+    &:after {
+      opacity: 1!important;
+    }
+    box-shadow: 0 35px 48px rgba(0, 0, 0, 0.3), 0 30px 20px rgba(0, 0, 0, 0.2);
+  }
 `;
 
 const Cover = styled.div`
@@ -60,6 +67,10 @@ const Header = styled.div`
   z-index: 10;
   opacity: 0;
 
+  @media (max-width: 768px) {
+    opacity: 1;
+  }
+
   ${CardItem}:hover & {
     opacity: 1;
   }
@@ -79,6 +90,10 @@ const Content = styled.div`
   padding: 1rem;
   position: relative;
   opacity: 0;
+
+  @media (max-width: 768px) {
+    opacity: 1;
+  }
 
   ${CardItem}:hover & {
     opacity: 1;
