@@ -75,6 +75,7 @@ const Header = ({ avatar, name, location, socialMedia }) => (
             {social.name}
           </a>
         ))}
+        <Link to="/about">About</Link>
         <Link to="/contact">Contact</Link>
       </SocialMedia>
 

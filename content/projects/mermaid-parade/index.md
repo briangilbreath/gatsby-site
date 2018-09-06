@@ -7,6 +7,7 @@ areas:
     - New York City
 ---
 
+![](./twin-mermaids_1280.jpg)
 ![](./2018_06_16_mermaid_parade_105.jpg)
 ![](./2018_06_16_mermaid_parade_4.jpg)
 ![](./2018_06_16_mermaid_parade_24.jpg)

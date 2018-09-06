@@ -1,7 +1,7 @@
 ---
 cover: "./2018_04_02_nyc_color_lomo_77.jpg"
 date: "2016-2018"
-title: "New York City"
+title: "New York City Street"
 areas:
     - Street Photography
     - 35mm Film
@@ -26,4 +26,13 @@ areas:
 ![](./2016_10_14_nyc_street_bw_nikon_f3_v2_6.jpg)
 ![](./2018_04_02_nyc_color_lomo_71.jpg)
 ![](./2018_04_02_nyc_color_lomo_70.jpg)
+![](./fountain_1280.jpg)
 ![](./2016_06_29_nikonf3_blackandwhite_street_people_13.jpg)
+![](./laurel-and-hardy.jpg)
+![](./2018_sad_1.jpg)
+![](./boom_box.jpg)
+![](./stunned_1280.jpg)
+![](./sailor.jpg)
+![](./news_1280.jpg)
+![](./fourth-of-july_1280.jpg)
+![](./mom-and-dad.jpg)

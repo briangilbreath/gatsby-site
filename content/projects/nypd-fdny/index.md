@@ -14,3 +14,6 @@ areas:
 ![](./2018_06_16_mermaid_parade_126.jpg)
 ![](./2016_11_03_nikon_f3_v2_bw_newyorkcity_33.jpg)
 ![](./2016_11_03_nikon_f3_v2_bw_newyorkcity_34.jpg)
+![](./eyeglasses.jpg)
+![](./proud_1280.jpg)
+![](./coney-island-patrol_1280.jpg)
