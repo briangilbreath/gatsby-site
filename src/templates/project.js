@@ -18,7 +18,7 @@ const InnerWrapper = styled.div`
   position: relative;
   max-width: ${props => props.theme.maxWidths.project}px;
   margin: 0 auto;
-  
+
   img{
     border:10px solid #000;
   }
@@ -63,7 +63,7 @@ export const pageQuery = graphql`
       frontmatter {
         cover {
           childImageSharp {
-            sizes(maxWidth: 800, quality: 75) {
+            sizes(maxWidth: 600, quality: 75) {
               ...GatsbyImageSharpSizes
             }
             resize(width: 480) {

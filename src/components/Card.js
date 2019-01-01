@@ -8,7 +8,7 @@ const CardItem = styled(Link)`
   min-height: 500px;
   position: relative;
   overflow: hidden;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
+  border: 10px solid #000;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -38,14 +38,12 @@ const CardItem = styled(Link)`
     &:after {
       opacity: 1;
     }
-    box-shadow: 0 35px 48px rgba(0, 0, 0, 0.3), 0 30px 20px rgba(0, 0, 0, 0.2);
   }
 
   @media (max-width: 768px) {
     &:after {
       opacity: 1!important;
     }
-    box-shadow: 0 35px 48px rgba(0, 0, 0, 0.3), 0 30px 20px rgba(0, 0, 0, 0.2);
   }
 `;
 

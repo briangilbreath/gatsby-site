@@ -14,7 +14,7 @@ module.exports = {
   },
   maxWidths: {
     general: '1440px',
-    project: 800,
+    project: 600,
   },
   gridColumns: 2,
   contentPadding: '1.0875rem',
