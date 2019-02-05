@@ -29,12 +29,12 @@ module.exports = {
   location: 'New York City',
   socialMedia: [
     {
-      url: 'https://www.instagram.com/briangilbreath',
-      name: 'Instagram',
+      url: 'http://www.blurb.com/b/9269374-cny-slnd',
+      name: 'Book',
     },
     {
-      url: 'https://www.500px.com/briangilbreath',
-      name: '500px',
+      url: 'https://www.instagram.com/briangilbreath',
+      name: 'Instagram',
     }
 
   ],
