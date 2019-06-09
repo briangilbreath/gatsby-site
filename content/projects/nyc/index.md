@@ -1,6 +1,6 @@
 ---
 cover: "./2018_04_02_nyc_color_lomo_77.jpg"
-date: "2016-2018"
+date: "2016-2019"
 title: "New York City Street"
 areas:
     - Street Photography
@@ -36,3 +36,5 @@ areas:
 ![](./news_1280.jpg)
 ![](./fourth-of-july_1280.jpg)
 ![](./mom-and-dad.jpg)
+![](./2018_10_31_halloween_nyc_bw_film_52.jpg)
+![](./2018_12_18_nostalgia_train_bw_15.jpg)
