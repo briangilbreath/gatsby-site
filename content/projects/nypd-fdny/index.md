@@ -1,6 +1,6 @@
 ---
 cover: "./2016_11_03_nikon_f3_v2_bw_newyorkcity_60.jpg"
-date: "2016-2018"
+date: "2016-2019"
 title: "NYPD-FDNY"
 areas:
     - New York City
@@ -17,3 +17,6 @@ areas:
 ![](./eyeglasses.jpg)
 ![](./proud_1280.jpg)
 ![](./coney-island-patrol_1280.jpg)
+![](./2019_04_21_easter_parade_1.jpg)
+![](./2019_04_21_easter_parade_105.jpg)
+![](./2019_04_21_easter_parade_82.jpg)

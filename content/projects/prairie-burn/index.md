@@ -1,7 +1,7 @@
 ---
 cover: "./IMG_3933.jpeg"
-date: "2018-04-10"
-title: "Prairie Burn"
+date: "2018-2019"
+title: "Kansas Prairie Burn"
 areas:
     - Manhattan, Kansas
 ---
@@ -18,3 +18,6 @@ areas:
 ![](./IMG_4094.jpg)
 ![](./R0012337.jpg)
 ![](./R0012392.jpg)
+![](./2019_04_21_easter_parade_158.jpg)
+![](./2019_04_08_prairie_burn_13.jpg)
+![](./2019_04_08_prairie_burn_22.jpg)
