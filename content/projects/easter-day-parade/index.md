@@ -1,6 +1,6 @@
 ---
 cover: "./2018_04_02_nyc_color_lomo_19_2.jpg"
-date: "2017-2018"
+date: "2017-2019"
 title: "Easter Day Parade"
 areas:
     - 5th Avenue, New York City
@@ -12,3 +12,9 @@ areas:
 ![](./2018_04_02_nyc_color_lomo_59.jpg)
 ![](./2018_04_02_nyc_color_lomo_20.jpg)
 ![](./2018_04_02_nyc_color_lomo_73.jpg)
+![](./2019_04_21_easter_parade_17.jpg)
+![](./2019_04_21_easter_parade_40.jpg)
+![](./2019_04_21_easter_parade_80.jpg)
+![](./2019_04_21_easter_parade_98.jpg)
+![](./2019_04_21_easter_parade_146.jpg)
+![](./2019_04_21_easter_parade_204.jpg)
