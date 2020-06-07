@@ -3,9 +3,7 @@ cover: "./2016_11_03_nikon_f3_v2_bw_newyorkcity_60.jpg"
 date: "2016-2019"
 title: "NYPD-FDNY"
 areas:
-    - New York City
-    - NYPD
-    - FDNY
+    - Heroes
 ---
 
 ![](./2016_10_14_nyc_street_bw_nikon_f3_v2_29.jpg)

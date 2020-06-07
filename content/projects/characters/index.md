@@ -1,9 +1,9 @@
 ---
 cover: "man-wash-park-2.jpg"
-date: "2018"
-title: "Characters"
+date: "2018-2020"
+title: "Character Portraits"
 areas:
-    - Interesting people
+    - Portraits of Interesting People
 ---
 
 ![](./man-wash-park-1.jpg)

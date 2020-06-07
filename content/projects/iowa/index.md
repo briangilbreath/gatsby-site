@@ -3,8 +3,7 @@ cover: "./2017_10_31_IOWA_234.jpg"
 date: "2017-10-23"
 title: "Last Harvest"
 areas:
-    - Anita, Iowa
-    - Photography
+    - Don's Last Crop - Anita, Iowa
 ---
 
 ![](./2017_10_31_IOWA_176.jpg)

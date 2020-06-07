@@ -3,8 +3,7 @@ cover: "./2018_12_18_nostalgia_train_bw_12.jpg"
 date: "2018-12-18"
 title: "New York Nostalgia Train"
 areas:
-    - New York City, NY
-    - Photography
+    - What year is it?
 ---
 
 ![](./2018_12_18_nostalgia_train_bw_29.jpg)

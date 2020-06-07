@@ -3,7 +3,7 @@ cover: "./IMG_3933.jpeg"
 date: "2018-2019"
 title: "Kansas Prairie Burn"
 areas:
-    - Manhattan, Kansas
+    - Burning grass in Manhattan, Kansas
 ---
 
 ![](./R0012205.jpg)
